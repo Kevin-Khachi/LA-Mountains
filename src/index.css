@@ -137,7 +137,7 @@ code {
   }
 
   #history {
-    height: 41vh;
+    height: 35vh;
     background: center/cover url(./images/History.png);
   }
 
@@ -168,7 +168,7 @@ code {
 
   #climb-head {
     width: 100vw;
-    height: 8vh;
+    height: 6vh;
   }
 
   #footer-logo {
